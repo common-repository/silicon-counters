@@ -1,0 +1,616 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-14 06:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: framework/class-admin.php:64 framework/class-admin.php:65 
+#: framework/class-admin.php:288 framework/class-admin.php:535
+#, php-format
+msgid "Follow instructions on %s site"
+msgstr ""
+
+#: framework/class-admin.php:66
+#, php-format
+msgid "You can choose any icon from  %s."
+msgstr ""
+
+#: framework/class-admin.php:71 framework/class-admin.php:1772
+msgid "Settings"
+msgstr ""
+
+#: framework/class-admin.php:74
+msgid "Icon Size"
+msgstr ""
+
+#: framework/class-admin.php:77 framework/class-admin.php:83 
+#: framework/class-admin.php:89 framework/class-admin.php:139 
+#: framework/class-admin.php:233 framework/class-admin.php:316 
+#: framework/class-admin.php:405 framework/class-admin.php:479 
+#: framework/class-admin.php:563 framework/class-admin.php:637 
+#: framework/class-admin.php:711 framework/class-admin.php:785 
+#: framework/class-admin.php:864 framework/class-admin.php:938 
+#: framework/class-admin.php:1012 framework/class-admin.php:1091 
+#: framework/class-admin.php:1175
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: framework/class-admin.php:80
+msgid "Number Size"
+msgstr ""
+
+#: framework/class-admin.php:86
+msgid "Label Size"
+msgstr ""
+
+#: framework/class-admin.php:92
+msgid "Paddings"
+msgstr ""
+
+#: framework/class-admin.php:95
+#, php-format
+msgid "Counter paddings (Left, Top, Right, Bottom). For example %s"
+msgstr ""
+
+#: framework/class-admin.php:98
+msgid "Open URLs in new tab/window"
+msgstr ""
+
+#: framework/class-admin.php:100 framework/class-admin.php:105
+#, php-format
+msgid "This option add %s in all counters URLs."
+msgstr ""
+
+#: framework/class-admin.php:103
+msgid "Add nofollow in URLs"
+msgstr ""
+
+#: framework/class-admin.php:108
+msgid "Counters Layout"
+msgstr ""
+
+#: framework/class-admin.php:114
+msgid "Convert thousands"
+msgstr ""
+
+#: framework/class-admin.php:116
+msgid ""
+"This option confert followers thousands to \"k\" format for example 1543 "
+"followes will be shown like 1.5k followers"
+msgstr ""
+
+#: framework/class-admin.php:119
+msgid "Order"
+msgstr ""
+
+#: framework/class-admin.php:121
+msgid "This option controls the order of the icons in the widget."
+msgstr ""
+
+#: framework/class-admin.php:126 framework/class-admin.php:129 
+#: framework/class-admin.php:1943
+msgid "Twitter"
+msgstr ""
+
+#: framework/class-admin.php:133 framework/class-admin.php:227 
+#: framework/class-admin.php:310 framework/class-admin.php:399 
+#: framework/class-admin.php:473 framework/class-admin.php:557 
+#: framework/class-admin.php:631 framework/class-admin.php:705 
+#: framework/class-admin.php:779 framework/class-admin.php:858 
+#: framework/class-admin.php:932 framework/class-admin.php:1006 
+#: framework/class-admin.php:1085 framework/class-admin.php:1169
+msgid "Icon"
+msgstr ""
+
+#: framework/class-admin.php:143 framework/class-admin.php:237 
+#: framework/class-admin.php:320 framework/class-admin.php:409 
+#: framework/class-admin.php:483 framework/class-admin.php:567 
+#: framework/class-admin.php:641 framework/class-admin.php:715 
+#: framework/class-admin.php:789 framework/class-admin.php:868 
+#: framework/class-admin.php:942 framework/class-admin.php:1016 
+#: framework/class-admin.php:1095 framework/class-admin.php:1179
+msgid "Icon Color"
+msgstr ""
+
+#: framework/class-admin.php:148 framework/class-admin.php:242 
+#: framework/class-admin.php:325 framework/class-admin.php:414 
+#: framework/class-admin.php:488 framework/class-admin.php:572 
+#: framework/class-admin.php:646 framework/class-admin.php:720 
+#: framework/class-admin.php:794 framework/class-admin.php:873 
+#: framework/class-admin.php:947 framework/class-admin.php:1021 
+#: framework/class-admin.php:1100 framework/class-admin.php:1184
+msgid "Icon Color on Hover"
+msgstr ""
+
+#: framework/class-admin.php:153 framework/class-admin.php:247 
+#: framework/class-admin.php:330 framework/class-admin.php:419 
+#: framework/class-admin.php:493 framework/class-admin.php:577 
+#: framework/class-admin.php:651 framework/class-admin.php:725 
+#: framework/class-admin.php:799 framework/class-admin.php:878 
+#: framework/class-admin.php:952 framework/class-admin.php:1026 
+#: framework/class-admin.php:1105 framework/class-admin.php:1189
+msgid "Counter Background"
+msgstr ""
+
+#: framework/class-admin.php:158 framework/class-admin.php:252 
+#: framework/class-admin.php:335 framework/class-admin.php:424 
+#: framework/class-admin.php:498 framework/class-admin.php:582 
+#: framework/class-admin.php:656 framework/class-admin.php:730 
+#: framework/class-admin.php:804 framework/class-admin.php:883 
+#: framework/class-admin.php:957 framework/class-admin.php:1031 
+#: framework/class-admin.php:1110 framework/class-admin.php:1194
+msgid "Counter Background on Hover"
+msgstr ""
+
+#: framework/class-admin.php:163 framework/class-admin.php:257 
+#: framework/class-admin.php:340 framework/class-admin.php:429 
+#: framework/class-admin.php:503 framework/class-admin.php:587 
+#: framework/class-admin.php:661 framework/class-admin.php:735 
+#: framework/class-admin.php:809 framework/class-admin.php:888 
+#: framework/class-admin.php:962 framework/class-admin.php:1036 
+#: framework/class-admin.php:1115 framework/class-admin.php:1199
+msgid "Number Color"
+msgstr ""
+
+#: framework/class-admin.php:168 framework/class-admin.php:262 
+#: framework/class-admin.php:345 framework/class-admin.php:434 
+#: framework/class-admin.php:508 framework/class-admin.php:592 
+#: framework/class-admin.php:666 framework/class-admin.php:740 
+#: framework/class-admin.php:814 framework/class-admin.php:893 
+#: framework/class-admin.php:967 framework/class-admin.php:1041 
+#: framework/class-admin.php:1120 framework/class-admin.php:1204
+msgid "Number Color on Hover"
+msgstr ""
+
+#: framework/class-admin.php:173 framework/class-admin.php:267 
+#: framework/class-admin.php:350 framework/class-admin.php:439 
+#: framework/class-admin.php:513 framework/class-admin.php:597 
+#: framework/class-admin.php:671 framework/class-admin.php:745 
+#: framework/class-admin.php:819 framework/class-admin.php:898 
+#: framework/class-admin.php:972 framework/class-admin.php:1046 
+#: framework/class-admin.php:1125 framework/class-admin.php:1209
+msgid "Label Color"
+msgstr ""
+
+#: framework/class-admin.php:178 framework/class-admin.php:272 
+#: framework/class-admin.php:355 framework/class-admin.php:444 
+#: framework/class-admin.php:518 framework/class-admin.php:602 
+#: framework/class-admin.php:676 framework/class-admin.php:750 
+#: framework/class-admin.php:824 framework/class-admin.php:903 
+#: framework/class-admin.php:977 framework/class-admin.php:1051 
+#: framework/class-admin.php:1130 framework/class-admin.php:1214
+msgid "Label Color on Hover"
+msgstr ""
+
+#: framework/class-admin.php:183
+msgid "Twitter Username"
+msgstr ""
+
+#: framework/class-admin.php:185
+#, php-format
+msgid "Insert the Twitter username. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:188
+msgid "Twitter Consumer key"
+msgstr ""
+
+#: framework/class-admin.php:193
+msgid "Twitter Consumer secret"
+msgstr ""
+
+#: framework/class-admin.php:198
+msgid "Twitter Access token"
+msgstr ""
+
+#: framework/class-admin.php:203
+msgid "Twitter Access token secret"
+msgstr ""
+
+#: framework/class-admin.php:220 framework/class-admin.php:223 
+#: framework/class-admin.php:1936
+msgid "Google+"
+msgstr ""
+
+#: framework/class-admin.php:277
+msgid "Google+ ID"
+msgstr ""
+
+#: framework/class-admin.php:281
+msgid "Google+ page or profile ID."
+msgstr ""
+
+#: framework/class-admin.php:282
+msgid "Example:"
+msgstr ""
+
+#: framework/class-admin.php:286 framework/class-admin.php:533
+msgid "Google API Key"
+msgstr ""
+
+#: framework/class-admin.php:303 framework/class-admin.php:306 
+#: framework/class-admin.php:1934
+msgid "Facebook"
+msgstr ""
+
+#: framework/class-admin.php:360
+msgid "Facebook Page ID"
+msgstr ""
+
+#: framework/class-admin.php:364
+msgid "ID Facebook page. Must be the numeric ID or your page slug."
+msgstr ""
+
+#: framework/class-admin.php:365
+msgid ""
+"You can find this data clicking to edit your page on Facebook. The URL will "
+"be similar to this:"
+msgstr ""
+
+#: framework/class-admin.php:366
+msgid "or"
+msgstr ""
+
+#: framework/class-admin.php:370
+msgid "Facebook App ID"
+msgstr ""
+
+#: framework/class-admin.php:375
+msgid "Facebook App Secret"
+msgstr ""
+
+#: framework/class-admin.php:392 framework/class-admin.php:395 
+#: framework/class-admin.php:1945
+msgid "Vimeo"
+msgstr ""
+
+#: framework/class-admin.php:449
+msgid "Vimeo Username"
+msgstr ""
+
+#: framework/class-admin.php:451
+#, php-format
+msgid "Insert your Vimeo username. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:466 framework/class-admin.php:469 
+#: framework/class-admin.php:1946
+msgid "YouTube"
+msgstr ""
+
+#: framework/class-admin.php:523
+msgid "YouTube Channel ID"
+msgstr ""
+
+#: framework/class-admin.php:525
+#, php-format
+msgid "Insert the YouTube Channel ID. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:528
+msgid "YouTube Channel URL"
+msgstr ""
+
+#: framework/class-admin.php:530
+#, php-format
+msgid "Insert the YouTube channel URL. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:550 framework/class-admin.php:553 
+#: framework/class-admin.php:1937
+msgid "Instagram"
+msgstr ""
+
+#: framework/class-admin.php:607
+msgid "Instagram Username"
+msgstr ""
+
+#: framework/class-admin.php:609
+msgid "Insert your Instagram Username."
+msgstr ""
+
+#: framework/class-admin.php:624 framework/class-admin.php:627 
+#: framework/class-admin.php:1938
+msgid "Pinterest"
+msgstr ""
+
+#: framework/class-admin.php:681
+msgid "Pinterest Username"
+msgstr ""
+
+#: framework/class-admin.php:683
+#, php-format
+msgid "Insert your Pinterest username. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:698 framework/class-admin.php:701 
+#: framework/class-admin.php:1935
+msgid "GitHub"
+msgstr ""
+
+#: framework/class-admin.php:755
+msgid "GitHub Username"
+msgstr ""
+
+#: framework/class-admin.php:757
+#, php-format
+msgid "Insert your GitHub username. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:772 framework/class-admin.php:775 
+#: framework/class-admin.php:1940
+msgid "SoundCloud"
+msgstr ""
+
+#: framework/class-admin.php:829
+msgid "SoundCloud Username"
+msgstr ""
+
+#: framework/class-admin.php:831
+msgid "Insert your SoundCloud Username."
+msgstr ""
+
+#: framework/class-admin.php:834
+msgid "SoundCloud Client ID"
+msgstr ""
+
+#: framework/class-admin.php:836
+#, php-format
+msgid "Insert your SoundCloud App Client ID. Generate this data in %s."
+msgstr ""
+
+#: framework/class-admin.php:851 framework/class-admin.php:854 
+#: framework/class-admin.php:1941
+msgid "Steam"
+msgstr ""
+
+#: framework/class-admin.php:908
+msgid "Steam Group Name"
+msgstr ""
+
+#: framework/class-admin.php:910
+#, php-format
+msgid "Insert your Steam Community group name. Example: %s."
+msgstr ""
+
+#: framework/class-admin.php:925 framework/class-admin.php:928 
+#: framework/class-admin.php:1942
+msgid "Twitch"
+msgstr ""
+
+#: framework/class-admin.php:982
+msgid "Twitch Username"
+msgstr ""
+
+#: framework/class-admin.php:984
+msgid "Insert your Twitch username."
+msgstr ""
+
+#: framework/class-admin.php:999 framework/class-admin.php:1002 
+#: framework/class-admin.php:1939
+msgid "Posts"
+msgstr ""
+
+#: framework/class-admin.php:1056
+msgid "Post Type"
+msgstr ""
+
+#: framework/class-admin.php:1061 framework/class-admin.php:1145 
+#: framework/class-admin.php:1219
+msgid "URL"
+msgstr ""
+
+#: framework/class-admin.php:1078 framework/class-admin.php:1081 
+#: framework/class-admin.php:1944
+msgid "Users"
+msgstr ""
+
+#: framework/class-admin.php:1135
+msgid "User Role"
+msgstr ""
+
+#: framework/class-admin.php:1140
+msgid "Label"
+msgstr ""
+
+#: framework/class-admin.php:1141 framework/counters/users-counter.php:53
+msgid "users"
+msgstr ""
+
+#: framework/class-admin.php:1162 framework/class-admin.php:1165 
+#: framework/class-admin.php:1933
+msgid "Comments"
+msgstr ""
+
+#. Name of the plugin
+#: framework/class-admin.php:1247 framework/class-admin.php:1248 
+#: framework/class-widget.php:20
+msgid "Silicon Counters"
+msgstr ""
+
+#: framework/class-admin.php:1627
+msgid "All Roles"
+msgstr ""
+
+#: framework/class-admin.php:1822
+msgid "General Info"
+msgstr ""
+
+#: framework/class-admin.php:1823
+msgid "Social Count Plus Version"
+msgstr ""
+
+#: framework/class-admin.php:1824 
+#: framework/html-settings-system-status-page.php:21
+msgid "WordPress Version"
+msgstr ""
+
+#: framework/class-admin.php:1825 
+#: framework/html-settings-system-status-page.php:28
+msgid "WP Multisite Enabled"
+msgstr ""
+
+#: framework/class-admin.php:1825 framework/class-admin.php:1828 
+#: framework/class-admin.php:1829 
+#: framework/html-settings-system-status-page.php:30 
+#: framework/class-widget.php:97 framework/class-widget.php:99 
+#: framework/class-widget.php:100
+msgid "Yes"
+msgstr ""
+
+#: framework/class-admin.php:1825 framework/class-admin.php:1828 
+#: framework/class-admin.php:1829 
+#: framework/html-settings-system-status-page.php:30 
+#: framework/class-widget.php:102 framework/class-widget.php:103
+msgid "No"
+msgstr ""
+
+#: framework/class-admin.php:1826 
+#: framework/html-settings-system-status-page.php:35
+msgid "Web Server Info"
+msgstr ""
+
+#: framework/class-admin.php:1827 
+#: framework/html-settings-system-status-page.php:42
+msgid "PHP Version"
+msgstr ""
+
+#: framework/class-admin.php:1830
+msgid "Social Connections"
+msgstr ""
+
+#: framework/class-admin.php:1840
+msgid ""
+"You do not have any counter that needs to connect remotely currently active"
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:6
+msgid "Environment"
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:14
+msgid "Plugin Version"
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:50
+msgid ""
+"Your server does not have fsockopen or cURL enabled. The scripts which "
+"communicate with the social APIs will not work. Contact your hosting "
+"provider."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:54
+msgid "Your server has fsockopen and cURL enabled."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:56
+msgid "Your server has fsockopen enabled, cURL is disabled."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:58
+msgid "Your server has cURL enabled, fsockopen is disabled."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:65
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:75
+msgid "wp_remote_get() failed. This may not work with your server."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:80
+msgid "wp_remote_get() was successful."
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:82
+msgid ""
+"wp_remote_get() failed. This plugin won't work with your server. Contact "
+"your hosting provider. Error:"
+msgstr ""
+
+#: framework/html-settings-system-status-page.php:86
+msgid "WP Remote Get"
+msgstr ""
+
+#: framework/class-widget.php:21
+msgid "Display the counter"
+msgstr ""
+
+#: framework/class-widget.php:59 framework/class-widget.php:119
+msgid "Social Counters"
+msgstr ""
+
+#: framework/class-widget.php:61
+msgid "Title"
+msgstr ""
+
+#: framework/class-widget.php:65
+msgid "Text before counters"
+msgstr ""
+
+#: framework/class-widget.php:71
+msgid "Text after counters"
+msgstr ""
+
+#: framework/class-widget.php:77
+msgid "Counters holder background (for example:#fff):"
+msgstr ""
+
+#: framework/class-widget.php:83
+msgid "Counters per row:"
+msgstr ""
+
+#: framework/class-widget.php:95
+msgid "Show label?"
+msgstr ""
+
+#: framework/counters/twitch-counter.php:75 
+#: framework/counters/instagram-counter.php:70 
+#: framework/counters/twitter-counter.php:146 
+#: framework/counters/soundcloud-counter.php:68 
+#: framework/counters/vimeo-counter.php:68 
+#: framework/counters/googleplus-counter.php:69 
+#: framework/counters/pinterest-counter.php:78
+msgid "followers"
+msgstr ""
+
+#: framework/counters/youtube-counter.php:75
+msgid "subscribers"
+msgstr ""
+
+#: framework/counters/steam-counter.php:67
+msgid "members"
+msgstr ""
+
+#: framework/counters/facebook-counter.php:97
+msgid "likes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Simple yet powerful tool to show social networks statistic. It supports: "
+"Facebook, Twitter, Google Plus, Instagram, Twitch, YouTube, Pinterest, Vimeo,"
+" GitHub, SoundCloud, Steam and also standard WordPress numbers like a "
+"comments, users and posts."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://siliconthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Silicon Themes"
+msgstr ""
